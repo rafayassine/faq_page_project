@@ -1,0 +1,16 @@
+body{
+    background-color: hsl(273, 75%, 66%);
+    color: hsl(240, 6%, 50%);
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 12px;
+}
+section{
+    background-color: azure;
+}
+h1,h3{
+    font-weight: 700;
+}
+
+p{
+    font-weight: 400;
+}
